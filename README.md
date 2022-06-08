@@ -4,6 +4,7 @@
 - The **authentication** feature of Firebase is used here logging  in the existing user and registering new user.
 - CLTypingLabel Cocoapod is used here for typing animation.
 
-<img width="300" alt="Screenshot 2022-01-16 at 9 52 21 PM" src="https://user-images.githubusercontent.com/62138248/149668423-267bfa62-a03d-4739-ae96-0c9e51826e12.png"></br>
-<img width="270" alt="Screenshot 2022-01-16 at 9 58 48 PM" src="https://user-images.githubusercontent.com/62138248/149668707-5b8bcd25-e9d8-4514-b23c-f1c7ab2579fb.png"><img width="268" alt="Screenshot 2022-01-16 at 9 59 42 PM" src="https://user-images.githubusercontent.com/62138248/149668736-eabdc8c2-d862-4276-ba00-03bc35cddd26.png"></br>
-<img width="330" alt="Screenshot 2021-10-04 at 11 31 11 AM" src="https://user-images.githubusercontent.com/62138248/135801384-fd847f41-dbc2-47fd-911a-15d05042659e.png">
+<img width="250" alt="Screenshot 2022-01-16 at 9 52 21 PM" src="https://user-images.githubusercontent.com/62138248/172711651-6229351e-7648-48d4-bdc8-6a20e724140c.png"></br> 
+<img width="250" alt="Screenshot 2022-01-16 at 9 58 48 PM" src="https://user-images.githubusercontent.com/62138248/172711829-aae0f908-a4c4-48c0-ab77-1a9d27ac2700.png">  
+<img width="250" alt="Screenshot 2022-01-16 at 9 59 42 PM" src="https://user-images.githubusercontent.com/62138248/172711912-0dea3a74-acc3-4b1c-b44e-889a094a269c.png"></br>
+- <img width="330" alt="Screenshot 2021-10-04 at 11 31 11 AM" src="https://user-images.githubusercontent.com/62138248/135801384-fd847f41-dbc2-47fd-911a-15d05042659e.png">
