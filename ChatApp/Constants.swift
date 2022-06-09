@@ -6,7 +6,7 @@
 //
 
 struct K {
-    static let appName="ChatApp......"
+    static let appName="ChatApp"
     static let registerSegue="RegisterToChat"
     static let logInSegue="LoginToChat"
     static let cellIdentifier="ReusableCell"

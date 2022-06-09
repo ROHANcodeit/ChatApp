@@ -7,6 +7,7 @@
 
 import UIKit
 import Firebase
+import FirebaseFirestore
 
 class ChatViewController: UIViewController {
     
@@ -57,6 +58,7 @@ class ChatViewController: UIViewController {
             }
         }
     }
+    
  
     @IBAction func sendPressed(_ sender: UIButton) {
         
